@@ -1,10 +1,10 @@
-package com.messenger.samplemicroservicesincident;
+package com.messenger.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SamplemicroservicesIncidentApplicationTests {
+class EurekaServerApplicationTests {
 
     @Test
     void contextLoads() {
